@@ -1,0 +1,2 @@
+# ClassIsland.Plugins-Atuo.output-tools
+一个辅助ClassIsland插件开发者打包输出cipx和md5的超级简易工具
